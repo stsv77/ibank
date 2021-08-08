@@ -47,5 +47,3 @@ const showAccount = (parentEl, data, err) => {
 
 const accountAndCardsEl = document.getElementById('accounts-and-cards');
 loadAccount(accountAndCardsEl);
-
-const change = 'I have a change';
